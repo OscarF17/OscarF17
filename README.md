@@ -6,25 +6,21 @@
 - 🐧 Linux enthusiast
 - 🖥️ ICPC regional finalist
 
-### Skills
-- 🐍 Python / Flask: Creating back-end applications and microservices, defining routes and endpoints to display content retrieved from a database.
-- 🗄️ MySQL / MariaDB: Designing and creating normalized relational databases.
-- 🖥️ HTML/CSS/JavaScript: Web development.
-- 🏋️‍♂️ C++: Competitive programming.
-- 📱 Java / Kotlin: Basic mobile app development for Android.
-
-### Currently learning
-I'm always eager to learn new technologies, both inside and outside the classroom. Here are some of the ones I'm currently mastering:
-- ⚛️ Front-end development with React and TypeScript.
-- 🔗 System integration using Python and the Flask framework.
-
-### My projects and repositories
-In my profile, you will find repositories for the following:
-- 🧠 Personal projects created to explore and learn new technologies.
-- 🏫 University-related projects.
-- 🤓 My configuration files related to Linux.
+In this profile you will find both personal and university-related projects, as well as my personal configurations files for Linux programs.
 
 Have a look around!
+
+### Skills
+- 🐍 Python / Flask
+- 🗄️ MySQL / MariaDB
+- 🖥️ HTML/CSS/JavaScript
+- 🏋️‍♂️ C++
+- 📱 Java / Kotlin
+
+### Currently learning
+I'm always eager to learn new technologies, both inside and outside the classroom. Here are some of the ones I'm currently learning:
+- ⚛️ Front-end development with React and TypeScript.
+- 🔗 System integration using Python and the Flask framework.
 
 ### Contact me!
 - 📭 Email me at:

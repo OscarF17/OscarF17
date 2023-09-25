@@ -6,9 +6,7 @@
 - 🐧 Linux enthusiast
 - 🖥️ ICPC regional finalist
 
-In this profile you will find both personal and university-related projects, as well as my personal configurations files for Linux programs.
-
-Have a look around!
+In this profile you will find both personal and university-related projects, as well as my personal configurations files for Linux programs. Have a look around! 👋
 
 ### Skills
 - 🐍 Python / Flask

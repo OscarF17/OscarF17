@@ -23,4 +23,3 @@ I'm always eager to learn new technologies, both inside and outside the classroo
 ### Contact me!
 - 📭 Email me at:
   - oscarlflores@protonmail.com
-  - oscarlflores@hotmail.com
